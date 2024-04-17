@@ -27,4 +27,7 @@
     - Implement model selection and hyperparamenter tuning
 
 
-In the model building we use a package library called scikit-learn(data mining and data analysis)
+- In the model building we use a package library called scikit-learn(data mining and data analysis)
+
+
+- regression problem deals with continous data numerical.(age, prices of comodities, stock)
