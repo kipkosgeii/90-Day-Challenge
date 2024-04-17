@@ -25,3 +25,6 @@
     - cross validation
     - grid search and randomized search for hyperparameter tuning
     - Implement model selection and hyperparamenter tuning
+
+
+In the model building we use a package library called scikit-learn(data mining and data analysis)
